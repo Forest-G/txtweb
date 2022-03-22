@@ -1,0 +1,7 @@
+port: :8088
+host: root:Mysql123.@tcp(120.76.128.13:3306)/txtweb?charset=utf8mb4&parseTime=true&loc=Local
+mailsender: 951549767@qq.com
+redisport:  120.76.128.13:6379
+redispassword: renai123456.
+redisdb: 0
+imagespath: ./images
